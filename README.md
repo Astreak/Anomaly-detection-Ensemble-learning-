@@ -3,7 +3,8 @@ NAB Data Corpus
 
 Data are ordered, timestamped, single-valued metrics. All data files contain anomalies, unless otherwise noted.
 
-
+![alt-text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwdBD5yk6cP2jI6Y4Ix5V2nEG0FXhbbQUXbA&usqp=CAU)
+![alt-text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOLXbI5mWy3o5pOGmJjlkicP1Gtx7z4pWWAw&usqp=CAU)
 ### Real data
 - realAWSCloudwatch/
 
